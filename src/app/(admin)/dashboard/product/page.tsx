@@ -1,7 +1,9 @@
-import React from "react";
+const ManageProductPage = () => {
+    return (
+        <div>
+            ManageProductPage page
+        </div>
+    )
+}
 
-const ManagementProductPage = () => {
-  return <div>ManagementProductPage</div>;
-};
-
-export default ManagementProductPage;
+export default ManageProductPage;
